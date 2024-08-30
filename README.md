@@ -1,5 +1,5 @@
 # website-for-psychologist
-## Ссылка на GitHub Pages(https://hbtch.github.io/website-for-psychologist/)
+## [Ссылка на GitHub Pages](https://hbtch.github.io/website-for-psychologist/)
    
 ## Используемые технологии
 
