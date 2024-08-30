@@ -1,6 +1,6 @@
 # website-for-psychologist
 ## Ссылка на GitHub Pages
-
+   
 ## Используемые технологии
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="50" height="50"/>&nbsp;
